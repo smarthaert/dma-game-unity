@@ -1,0 +1,6 @@
+项目可以通过链接：https://dma-game-unity.googlecode.com 访问。
+
+在新项目的页面中点source->Browse，我们可以浏览到版本库默认的目录结构：branches、tags、trunk。其中trunk是我们在开发过程中存放代码的地方；tags的意思是当项目开发出某个具有里程碑意义的版本（比如release_1.0等）后可以在这里做个标记；branches是某个项目成员可能突然有新的想法了但为了不影响其他人的开发而单独拿出来做。这些只是一般的做法，但具体怎么做完全可以由开发人员自己决定。
+
+
+关于TortoiseSVN的使用和安装自己baidu
