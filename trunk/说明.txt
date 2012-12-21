@@ -1,10 +1,30 @@
-项目可以通过链接：https://dma-game-unity.googlecode.com 访问。
+googlecode项目可以通过链接：https://dma-game-unity.googlecode.com 访问。
 
 在新项目的页面中点source->Browse，我们可以浏览到版本库默认的目录结构：branches、tags、trunk。其中trunk是我们在开发过程中存放代码的地方；tags的意思是当项目开发出某个具有里程碑意义的版本（比如release_1.0等）后可以在这里做个标记；branches是某个项目成员可能突然有新的想法了但为了不影响其他人的开发而单独拿出来做。这些只是一般的做法，但具体怎么做完全可以由开发人员自己决定。
 
 
-文件上传：
+
+
+
+
+关于TortoiseSVN的使用和安装自己baidu，大概如下：
+①安装tortoiseSVN客户端；
+②在自己电脑里面新建一个文件夹，自己命名，右击它，选择"SVN checkout..."
+③设置 URL为"https://dma-game-unity.googlecode.com/svn"    （不要输入引号）
+④今后把代码存在这个文件夹下面，每次提交的时候，在该文件夹下右击选择："SVN Commit"进行提交你的新代码，需要输入用户名和密码。
+
 用户名：Liwei1992309@gmail.com
 密码：CG5ZJ2HM9wk3 
 
-关于TortoiseSVN的使用和安装自己baidu
+⑤更新大家的代码需要在文件夹下右击选择"SVN Update..."即可。
+
+
+tortoiseSVN的安装包和语言包在附件里面
+========================================================================
+tortoiseSVN配置：
+SVN checkout:
+URL of repository:https://dma-game-unity.googlecode.com/svn
+
+文件上传：
+用户名：Liwei1992309@gmail.com
+密码：CG5ZJ2HM9wk3 
